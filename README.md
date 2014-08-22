@@ -26,5 +26,5 @@ You mean besides incredibly good karma? Here are some very likely outcomes:
 
 - You’ll meet interesting new people outside your usual developer group.
 - You’ll probably learn something new by answering questions you never thought of asking yourself.
-- Eternal gratitude from your group of girls and the Django Girls community.
+- Eternal gratitude from your group of attendees and the Django Girls community.
 - You’ll help break down stereotypes about women not being interested in technology and programming and thus help your sisters, female friends and relatives, (future) daughters have more choices in their future. And you can add all that on your CV!
