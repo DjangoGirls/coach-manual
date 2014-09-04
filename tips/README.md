@@ -30,9 +30,13 @@ Be prepared even for questions like: "What is a directory?" or "How to create a 
 
 A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. This is especially annoying when the correction has no bearing on the actual conversation.
 
+> This paragraph comes from [Hacker School User's Manual](https://www.hackerschool.com/manual) which is a really recommended resource for teaching.
+
 #### No subtle -isms
 
 Subtle -isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle -ism. Like the other three social rules, this one is often accidentally broken. Like the other three, it's not a big deal to mess up – you just apologize and move on.
+
+> This paragraph comes from [Hacker School User's Manual](https://www.hackerschool.com/manual) which is a really recommended resource for teaching.
 
 ([Related comic strip](http://dilbert.com/strips/comic/2014-08-05/)).
 
