@@ -32,6 +32,23 @@ The tutorial covers:
 * Using Bootstrap and Google Fonts.
 * Deploying on Heroku.
 
+# Pre-workshop installation
+
+There is a lot to learn in the tutorial!  Attendees will have more time to learn at the workshop if they come with everything they need already installed.  Most Django Girls events include a pre-workshop meetup in the evening or day(s) beforehand where you can help your group with installation and check their system is ready to go.  This could be in person or by Skype/Google hangout etc.
+
+We recommend guiding attendees through the following steps prior to the workshop, as described in the first few chapters of the tutorial:
+* Install Python (note that we are using Python 3!)
+* Set up virtual env
+* Install Django
+* Install text editor
+* Sign up for heroku account
+* Install heroku toolbox
+* Set up ssh keys for heroku
+* Basic introduction to the command line
+
+In addition, attendees can read the chapters of the tutorial on "How the internet works" and "What is Django?" before the workshops.  It is of course fine to discuss those chapters and answer any questions they  have, but we want them to be able to start coding right away!
+
+
 ## Our approach
 
 The tutorial is completely beginner-friendly. Attendees literally don't have to know how the Internet works - we will explain it all!
