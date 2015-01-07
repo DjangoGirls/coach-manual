@@ -13,4 +13,4 @@ Drop us a line at hello@djangogirls.org.
 
 ## Stay in touch with your group
 
-As much as possible, please stay in touch with your group after the event. Answer their questions, encourage them to follow on with programming or invite them to your local Python meetup. It's super important to have a friendly face in community. 
+As much as possible, please stay in touch with your group after the event. Answer their questions, encourage them to follow on with programming or invite them to your local Python meetup. It's super important to have a friendly face in the community. 

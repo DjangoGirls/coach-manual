@@ -17,7 +17,7 @@ Your interest in helping beginners dip their toes into web programming is alread
 - Lots of patience, smiles and a friendly attitude.
 - The ability to answer all sorts of questions in a beginner-friendly way (even if that means the explanation isn’t technically precise) throughout the duration of the workshop.
 - Some time to go through the [Tutorial](http://tutorial.djangogirls.org) before the event.
-- Free time at the weekend!
+- Free time on the weekend!
 - Curiosity!
 
 ## Why should I be a Django Girls coach?
@@ -27,4 +27,4 @@ You mean besides incredibly good karma? Here are some very likely outcomes:
 - You’ll meet interesting new people outside your usual developer group.
 - You’ll probably learn something new by answering questions you never thought of asking yourself.
 - Eternal gratitude from your group of attendees and the Django Girls community.
-- You’ll help break down the stereotype that women are not interested in technology and programming and thus help your sisters, female friends and relatives, (future) daughters have more choices in their future. And you can add all that on your CV!
+- You’ll help break down the stereotype that women are not interested in technology and programming and thus help your sisters, female friends and relatives, (future) daughters have more choices in their future. And you can add all that to your CV!

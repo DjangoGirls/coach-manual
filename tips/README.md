@@ -4,13 +4,13 @@ As much as possible, we want our coaches to follow some guidelines.
 
 ### Hands-on! Coaching vs teaching
 
-During the workshop you'll work in a small group of 3 learners. This a hands-on, experience-oriented workshop. You'll stand by on the sidelines, not in front of them.
+During the workshop you'll work in a small group of 3 learners. This is a hands-on, experience-oriented workshop. You'll stand by on the sidelines, not in front of them.
 
 Coaches need to be 100% focused on learners, and always be there when needed. Make sure their experience is positive and they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
 ### Words
 
-At all time, you need to be super careful about the words you use.
+At all times, you need to be super careful about the words you use.
 
 #### No jargon
 
@@ -22,7 +22,7 @@ For your learners it may be the hardest thing they've ever done. Telling them th
 
 #### No feigning surprise
 
-Don't act surprised when people say they don't know something. Not knowing something (technical or not) totally acceptable at Django Girls.
+Don't act surprised when people say they don't know something. Not knowing something (technical or not) is totally acceptable at Django Girls.
 
 Be prepared even for questions like: "What is a directory?" or "How do I create a file?".
 
@@ -83,7 +83,7 @@ For most people, this is a very uncomfortable and stressful situation. But it do
 
 A big obstacle that we try to remove is fear. In most situations, but especially school and work, people are afraid of looking stupid. This fear frequently keeps us from asking important questions like "how does that work?" or even just "why?".
 
-Fear of making mistake also keeps people from making progress.
+Fear of making mistakes also keeps people from making progress.
 
 #### Impostor syndrome
 
@@ -104,7 +104,7 @@ We do not roll our eyes or laugh at questions. We do not debate which programmin
 We always answer __positively__:
 - I’m glad you said that
 - Great question
-- Hm, I'm not sure... Let's look on the Internet/ask someone else.
+- Hm, I'm not sure... Let's look on the internet/ask someone else.
 
 ### No back-seat driving
 
@@ -124,4 +124,4 @@ __Make them Google stuff__ - do not give immediate answers just to make things g
 
 __Ask about their ideas__ - "How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?
 
-__Encourage them to make their own changes and not to follow the tutorial too precisely__ - if they try to add some twist, and don't  follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in a correct location. It is harder to add something on your own and make it work.
+__Encourage them to make their own changes and not to follow the tutorial too precisely__ - if they try to add some twists, and don't follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in a correct location. It is harder to add something on your own and make it work.
