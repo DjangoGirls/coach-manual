@@ -2,11 +2,11 @@
 
 As much as possible, we want our coaches to follow some guidelines.
 
-### Hands-on! Coaching vs teaching
+### Hands-on! Coaching vs. teaching
 
 During the workshop you'll work in a small group of 3 learners. This is a hands-on, experience-oriented workshop. You'll stand by on the sidelines, not in front of them.
 
-Coaches need to be 100% focused on learners, and always be there when needed. Make sure their experience is positive and they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
+Coaches need to be 100% focused on their learners and always be there when needed. Make sure their experience is positive and that they have fun. Do not judge, be helpful and appreciate their (in-)abilities.
 
 ### Words
 
@@ -42,7 +42,7 @@ Subtle-isms are small things that make others feel uncomfortable, things that we
 
 As we already mentioned, we want our attendees to really understand what they're doing, so they're not only copy-pasting the code, but they're actually learning something. That's why we chose the "learn from mistakes" approach here.
 
-Over the course of the tutorial you'll see that we're trying to first steer attendees into an error, bug or mistake. Make the attendee read the bug report and __understand it__. More importantly, we're trying to teach them that bugs aren't scary and error pages are their friends. This approach will go a long way later.
+Over the course of the tutorial you'll see that we're trying to first steer attendees into an error, bug or mistake. Make the attendee read the bug report and __understand it__. More importantly, we're trying to teach them that bugs aren't scary and that error pages are their friends. This approach will go a long way later on.
 
 ### Learn that coding is fun
 
