@@ -89,7 +89,7 @@ Fear of making mistakes also keeps people from making progress.
 
 Madeline Kunin's research: women self-filter more than men.
 
-The impostor syndrome is a psychological phenomenon in which people are unable to internalize their accomplishments. Despite external evidence of their competence, those with the syndrome remain convinced that they are frauds and do not deserve the success they have achieved. __The impostor syndrome is particularly common among women.__
+The impostor syndrome is a psychological phenomenon in which people are unable to internalize their accomplishments. Despite external evidence of their competence, they remain convinced that they are frauds and do not deserve the success they have achieved. __Impostor syndrome is particularly common among women.__
 
 To fight impostor syndrome:
 - Don't accept any learner saying they are too 'whatever' to do it; assure them that they can do it.
@@ -112,7 +112,7 @@ Imagine that their keyboard is made of lava. LAVA! You wouldn't touch it, right?
 
 Whenever you take over their keyboard, learners are going to drift away. This can be offputting and even scary.
 
-We're sure you can explain it and instruct them with your words only (it's actually a cool exercise for you too!). If you absolutely, ultimatively **must** type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
+We're sure you can explain what needs to be done and instruct them with your words only (it's actually a cool exercise for you too!). If you absolutely, ultimately **must** type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
 
 Ask: "Do you mind if I type?" or "May I?".
 
@@ -120,8 +120,8 @@ Ask: "Do you mind if I type?" or "May I?".
 
 Attendees will only spend 8 hours or so with you, but they will have to spend many many many more hours teaching themselves. Fortunately, you can make it easier for them!
 
-__Make them Google stuff__ - do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matter is whether they're going to fall in love with it or not.
+__Make them Google stuff__ - do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matters is whether they're going to fall in love with it or not.
 
 __Ask about their ideas__ - "How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?
 
-__Encourage them to make their own changes and not to follow the tutorial too precisely__ - if they try to add some twists, and don't follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in a correct location. It is harder to add something on your own and make it work.
+__Encourage them to make their own changes and not to follow the tutorial too precisely__ - if they try to add some twists, and don't follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in the correct location. It is harder to add something on your own and make it work.
