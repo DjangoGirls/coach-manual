@@ -41,6 +41,8 @@ We recommend guiding attendees through the following steps prior to the workshop
 * Set up virtualenv
 * Install Django
 * Install a text editor
+* Install Git
+* Sign up for a GitHub account
 * Sign up for a PythonAnywhere account
 * Basic introduction to the command line
 
