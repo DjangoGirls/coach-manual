@@ -21,7 +21,7 @@ Django Girls is designed to be a one-day workshop. However, sometimes the event 
 
 During Django Girls events we use a tutorial that was written specifically for these workshops. You can find it here: http://tutorial.djangogirls.org/
 
-During the course of the workshop, you should be able to accomplish the whole tutorial in 7-8 hours.  The tutorial involves writing a complete blog application in Django and deploying it to Heroku.
+During the course of the workshop, you should be able to accomplish the whole tutorial in 7-8 hours.  The tutorial involves writing a complete blog application in Django and deploying it to PythonAnywhere.
 
 The tutorial covers:
 * A simple explanation of how the Internet works.
@@ -30,7 +30,7 @@ The tutorial covers:
 * Django models, views, urls and templates.
 * Basics of HTML and CSS.
 * Using Bootstrap and Google Fonts.
-* Deploying on Heroku.
+* Deploying on PythonAnywhere.
 
 # Pre-workshop installation
 
@@ -41,9 +41,7 @@ We recommend guiding attendees through the following steps prior to the workshop
 * Set up virtualenv
 * Install Django
 * Install a text editor
-* Sign up for a Heroku account
-* Install Heroku toolbox
-* Set up ssh keys for Heroku
+* Sign up for a PythonAnywhere account
 * Basic introduction to the command line
 
 In addition, attendees can read the chapters of the tutorial on "How the internet works" and "What is Django?" before the workshops.  It is of course fine to discuss those chapters and answer any questions they have, but we want them to be able to start coding right away!
