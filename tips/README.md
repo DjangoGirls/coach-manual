@@ -12,7 +12,7 @@ Coaches need to be 100% focused on their learners and always be there when neede
 
 For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your Google hangout or Skype name and encourage them to IM you when they need help. (And remember to bring a laptop so you can check your IMs!) 
 
-Attendees with low vision might want to increase the size of the text in their command lines, their text editors, and on web pages. They probably know how to enlarge text in thwir web browsers, but they might need help resizing text in other places. Don't assume anything about someone's vision; try to start the day with the statement, "And if you need help making the text size bigger or smaller when you start coding, let me know!"  
+Attendees with low vision might want to increase the size of the text in their command lines, their text editors, and on web pages. They probably know how to enlarge text in their web browsers, but they might need help resizing text in other places. Don't assume anything about someone's vision; try to start the day with the statement, "And if you need help making the text size bigger or smaller when you start coding, let me know!"  
 
 Sometimes attendees can get overwhelmed. This is why breaks are built into the schedule! If you feel like an attendee is getting frustrated and would benefit from a break, let them know that it's okay to step away for a few minutes, take a sip of water, and come back. Sometimes just moving your body can help new concepts crystallize. 
 
