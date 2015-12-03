@@ -93,6 +93,10 @@ A big obstacle that we try to remove is fear. In most situations, but especially
 
 Fear of making mistakes also keeps people from making progress.
 
+#### I'm not used to work with Windows!
+
+Your group is using Windows but you're more a Mac or Linux user? Don't worry, you will do fine! Python installation got easier on Windows and there are other coaches to help you in case of a problem.
+
 #### Impostor syndrome
 
 Madeline Kunin's research: women self-filter more than men.
