@@ -1,5 +1,9 @@
 # Django Girls Coaching Manual
 
+> **Info** This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/
+
 This manual is a set of useful tips and tricks that Django Girls coaches can use. Being a coach is a very hard task and thus we have collected together all the things we have learned during the workshops so far to share with you.
 
 This manual is also based on these wonderful resources:
