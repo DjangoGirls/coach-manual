@@ -10,7 +10,7 @@ This manual is also based on these wonderful resources:
 - [Hacker School User's Manual](https://www.hackerschool.com/manual)
 - [Rails Bridge Teacher Training](http://curriculum.railsbridge.org/workshop/more_teacher_training)
 - [Open Tech School Coaching Guide](http://opentechschool.github.io/slides/presentations/coaching/)
-- [Being a Rails Girls Coach](http://guides.railsgirls.com/coach/)
+- [Being a Rails Girls Coach](http://guides.railsgirls.com/coach)
 
 # Introduction
 
