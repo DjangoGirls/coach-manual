@@ -1,9 +1,13 @@
 {
     "gitbook": ">=3.1.1",
     "plugins": [
+        "github",
         "sidebar-ads"
     ],
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/DjangoGirls/coach-manual"
+        },
         "sidebar-ads": {
             "ads": [
                     {
