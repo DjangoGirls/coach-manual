@@ -66,7 +66,7 @@ Either use the GitHub app for your operating system (mentioned above) or `git` c
 
 Move to the folder containing the project, to run the following commands.
 
-    cd tutorial
+    cd coach-manual
 
 Then, create a branch for your new changes to sit in. It helps to call the branch something related to the changes you are going to make.
 
