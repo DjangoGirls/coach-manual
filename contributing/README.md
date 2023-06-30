@@ -17,7 +17,7 @@ If you want to propose some small changes or fix typos in existing translations,
 
 # Getting started and prerequisites
 
-For contributing to the tutorial the following is needed to get started:
+For contributing to the coach manual the following is needed to get started:
 
 * a [GitHub account](https://github.com)
 * in the case of complex edits familiarity with [Git command line basics](https://help.github.com/articles/set-up-git) or familiarity with an app ([Windows](https://windows.github.com/), [Mac](https://mac.github.com/)) to push your edits made on your computer to GitHub.
