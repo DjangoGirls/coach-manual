@@ -1,3 +1,5 @@
 _book/
 .idea/
 node_modules/
+contributing/.DS_Store
+.DS_Store
