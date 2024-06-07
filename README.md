@@ -35,5 +35,4 @@ You mean besides incredibly good karma? Here are some very likely outcomes:
 
 ## Contributing
 
-This coach manual is maintained by [DjangoGirls](http://djangogirls.org/). If you find any mistakes or want to update the 
-tutorial please [follow the contributing guidelines](https://github.com/DjangoGirls/coach-manual/contributing/).
+This coach manual is maintained by [DjangoGirls](http://djangogirls.org/). If you find any mistakes or want to update the tutorial please [follow the contributing guidelines](/contributing/).
