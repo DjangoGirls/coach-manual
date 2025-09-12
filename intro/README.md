@@ -13,8 +13,8 @@ Most of our workshops are done in English, so we expect you to speak it fluently
 
 Django Girls is designed to be a one-day workshop. However, sometimes the event could take two days, or there may be a shorter installation event the evening before. Apart from time you will spend actually coaching, there are a number of things you need to consider, which will take some of your time:
 
-* Getting to know your group - we encourage to say hi and meet with your group before the workshop. This could involve writing an e-mail to introduce yourself, and possibly a chat via hangout or Skype with all the people in your group (__~1-2 hours__).
-* Helping out with installation before the workshops - either done via Skype/Google hangout/e-mails or a day before the workshop. You will need __3+ hours__ for that.
+* Getting to know your group - we encourage to say hi and meet with your group before the workshop. This could involve writing an e-mail to introduce yourself, and possibly a chat via GoogleHangout/MSTeams/Zoom with all the people in your group (__~1-2 hours__).
+* Helping out with installation before the workshops - either done via GoogleHangout/MSTeams/Zoom/e-mails or a day before the workshop. You will need __3+ hours__ for that.
 * For some Django Girls events there may be pre- or post-workshop meetups (__~1-3h__).
 
 # Tutorial
@@ -34,7 +34,7 @@ The tutorial covers:
 
 # Pre-workshop installation
 
-There is a lot to learn in the tutorial!  Attendees will have more time to learn at the workshop if they come with everything they need already installed.  Most Django Girls events include a pre-workshop meetup in the evening or day(s) beforehand, where you can help your group with installation and check that their system is ready to go.  This could be in person or by Skype/Google hangout etc.
+There is a lot to learn in the tutorial!  Attendees will have more time to learn at the workshop if they come with everything they need already installed.  Most Django Girls events include a pre-workshop meetup in the evening or day(s) beforehand, where you can help your group with installation and check that their system is ready to go.  This could be in person or by Google hangout/Teams/Zoom etc.
 
 We recommend pointing attendees at the [Installation chapter](http://tutorial.djangogirls.org/en/installation/index.html) prior to the workshop, this takes them through some basic setup steps and some introductory material. It is of course fine to discuss the material and answer any questions they have, but we want them to be able to start coding right away!
 
