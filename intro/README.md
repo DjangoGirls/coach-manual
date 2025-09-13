@@ -34,7 +34,7 @@ The tutorial covers:
 
 # Pre-workshop installation
 
-There is a lot to learn in the tutorial!  Attendees will have more time to learn at the workshop if they come with everything they need already installed.  Most Django Girls events include a pre-workshop meetup in the evening or day(s) beforehand, where you can help your group with installation and check that their system is ready to go.  This could be in person or by Google hangout/Teams/Zoom etc.
+There is a lot to learn in the tutorial!  Attendees will have more time to learn at the workshop if they come with everything they need already installed.  Most Django Girls events include a pre-workshop meetup in the evening or day(s) beforehand, where you can help your group with installation and check that their system is ready to go.  This could be in person or by GoogleHangout/Teams/Zoom etc.
 
 We recommend pointing attendees at the [Installation chapter](http://tutorial.djangogirls.org/en/installation/index.html) prior to the workshop, this takes them through some basic setup steps and some introductory material. It is of course fine to discuss the material and answer any questions they have, but we want them to be able to start coding right away!
 
