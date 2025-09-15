@@ -10,7 +10,7 @@ Coaches need to be 100% focused on their learners and always be there when neede
 
 ### Be Flexible & Accessible 
 
-For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your Google hangout or Skype name and encourage them to IM you when they need help. (And remember to bring a laptop so you can check your IMs!) 
+For attendees who are hard of hearing or would otherwise benefit from forms of communication other than talking, be prepared to use a text-based form of communication. Give them your GoogleHangout/Teams/Zoom name and encourage them to IM you when they need help. (And remember to bring a laptop so you can check your IMs!) 
 
 Attendees with low vision might want to increase the size of the text in their command lines, their text editors, and on web pages. They probably know how to enlarge text in their web browsers, but they might need help resizing text in other places. Don't assume anything about someone's vision; try to start the day with the statement, "And if you need help making the text size bigger or smaller when you start coding, let me know!"  
 
